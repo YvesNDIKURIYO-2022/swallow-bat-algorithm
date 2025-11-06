@@ -147,9 +147,9 @@ If you use this algorithm in your research, please cite:
 @article{ndikuriyo2025,
   title={A Bio-Inspired Swallow-Bat Algorithm for Threat-Avoidance Routing in the Container Truck Routing Problem},
   author={Ndikuriyo, Yves and Zhang, Yinggui and Fom, Dung Davou},
-  journal={Journal of Heuristics},
+  journal={......},
   year={2025},
-  publisher={Springer}
+  publisher={.....}
 }
 ```
 
@@ -194,7 +194,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 ## 📞 Contact
 
 For questions and collaborations, please contact:
-- **Lead Researcher**: Yves Ndikuriyo - [yves.ndikuriyo@csu.edu.cn]
+- **Lead Researcher**: Yves Ndikuriyo - [yvesndikuriyo@csu.edu.cn]
 - **Project Repository**: [[(https://github.com/YvesNDIKURIYO-2022/swallow-bat-algorithm)]
 
 ---
